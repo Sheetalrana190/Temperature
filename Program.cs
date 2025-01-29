@@ -5,7 +5,7 @@ namespace Test
     {
         static void Main()
         {
-            double f = 0, c = 0;
+            int f = 0, c = 0;
             Console.WriteLine("Enter temperature in Fahrenheit");
             f = Convert.ToDouble(Console.ReadLine());
             
